@@ -30,5 +30,16 @@
 			<pubDate>Sun, 11 Jun 2023 01:00:00 +0800</pubDate>
 			<dc:creator><![CDATA[Wesley Prison Ministry]]></dc:creator>
 		</item>
+		<item>
+			<title>Wesley WSCS Food Fair 2023</title>
+			<link>https://wesleymc.org/events-courses/events/wesley-wscs-food-fair-2023</link>
+			<guid isPermaLink="true">https://wesleymc.org/events-courses/events/wesley-wscs-food-fair-2023</guid>
+			<description><![CDATA[Discipleship in the family.]]></description>
+			<enclosure url="https://wesleymc.org/images/events/Wesley_Food_Fair_2023_thumbnail.jpg"
+    length="100" type="image/jpeg" />
+			<category>Events</category>
+			<pubDate>Fri, 09 Jun 2023 01:00:00 +0800</pubDate>
+			<dc:creator><![CDATA[Outreach]]></dc:creator>
+		</item>
 	</channel>
 </rss>

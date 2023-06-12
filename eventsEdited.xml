@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<title>Wesley Methodist Church - Events &amp; Courses</title>
 		<description>
@@ -13,26 +13,26 @@
 			<link>https://wesleymc.org/events-courses/courses/a-musical-workshop-series-by-the-creative-expression-ministry-2</link>
 			<guid isPermaLink="true">https://wesleymc.org/events-courses/courses/a-musical-workshop-series-by-the-creative-expression-ministry-2</guid>
 			<description>
-			Afro-Brazilian Samba Drums Workshop for Beginners. Latin Percussion Hand Drums Workshop for Outreach.
+			<![CDATA[Afro-Brazilian Samba Drums Workshop for Beginners. Latin Percussion Hand Drums Workshop for Outreach.]]>
 			</description>
 			<enclosure url="https://wesleymc.org/images/events/WE_CEM_Music_WorkshopsFP233_Thumbnail.jpg"
     length="100" type="image/jpeg" />
 			<category>Courses</category>
 			<pubDate>Sat, 10 Jun 2023 00:00:00 +0800</pubDate>
-			<author>Witness Evangelism</author>
+			<dc:creator><![CDATA[Witness Evangelism]]></dc:creator>
 		</item>
 		<item>
 			<title>Wesley Prison Ministry &amp; Wesley Befrienders To Older Persons Ministry Open House</title>
 			<link>https://wesleymc.org/events-courses/events/wesley-primin-wbop-open-house</link>
 			<guid isPermaLink="true">https://wesleymc.org/events-courses/events/wesley-primin-wbop-open-house</guid>
 			<description>
-			Wesley Befrienders To Older Persons Ministry.
+			<![CDATA[Wesley Befrienders To Older Persons Ministry.]]>
 			</description>
 			<enclosure url="https://wesleymc.org/images/events/COSC_PriMin_WBOP_thumbnail.jpg"
     length="100" type="image/jpeg" />
 			<category>Events</category>
 			<pubDate>Sun, 11 Jun 2023 01:00:00 +0800</pubDate>
-			<author>Wesley Prison Ministry</author>
+			<dc:creator><![CDATA[Wesley Prison Ministry]]></dc:creator>
 		</item>
 	</channel>
 </rss>

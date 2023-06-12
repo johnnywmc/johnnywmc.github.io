@@ -9,7 +9,7 @@
 		<lastBuildDate>Mon, 12 Jun 2023 14:34:19 +0800</lastBuildDate>
 		<generator>Joomla! - Open Source Content Management</generator>
 		<item>
-			<title>A Musical Workshop Series | The Creative Expression Ministry</title>
+			<title>The Creative Expression Ministry</title>
 			<link>https://wesleymc.org/events-courses/courses/a-musical-workshop-series-by-the-creative-expression-ministry-2</link>
 			<guid isPermaLink="true">https://wesleymc.org/events-courses/courses/a-musical-workshop-series-by-the-creative-expression-ministry-2</guid>
 			<description>
@@ -19,7 +19,7 @@
     length="100" type="image/jpeg" />
 			<category>Courses</category>
 			<pubDate>Thu, 11 Jun 2023 00:00:00 +0800</pubDate>
-			<dc:creator>Witness Evangelism</dc:creator>
+			<dc:creator><![CDATA[Witness Evangelism]]></dc:creator>
 		</item>
 	</channel>
 </rss>

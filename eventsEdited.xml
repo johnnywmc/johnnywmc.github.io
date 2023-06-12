@@ -6,7 +6,7 @@
 		Events
 		</description>
 		<link>https://wesleymc.org/events-courses</link>
-		<lastBuildDate>Mon, 12 Jun 2023 14:35:19 +0800</lastBuildDate>
+		<lastBuildDate>Mon, 12 Jun 2023 14:37:19 +0800</lastBuildDate>
 		<generator>Joomla! - Open Source Content Management</generator>
 		<item>
 			<title>A Musical Workshop Series by The Creative Expression Ministry</title>
@@ -18,8 +18,21 @@
 			<enclosure url="https://wesleymc.org/images/events/WE_CEM_Music_WorkshopsFP233_Thumbnail.jpg"
     length="100" type="image/jpeg" />
 			<category>Courses</category>
-			<pubDate>Thu, 11 Jun 2023 00:00:00 +0800</pubDate>
+			<pubDate>Thu, 10 Jun 2023 00:00:00 +0800</pubDate>
 			<author>Witness Evangelism</author>
+		</item>
+		<item>
+			<title>Wesley Prison Ministry &amp; Wesley Befrienders To Older Persons Ministry Open House</title>
+			<link>https://wesleymc.org/events-courses/events/wesley-primin-wbop-open-house</link>
+			<guid isPermaLink="true">https://wesleymc.org/events-courses/events/wesley-primin-wbop-open-house</guid>
+			<description>
+			Wesley Befrienders To Older Persons Ministry.
+			</description>
+			<enclosure url="https://wesleymc.org/images/events/COSC_PriMin_WBOP_thumbnail.jpg"
+    length="100" type="image/jpeg" />
+			<category>Events</category>
+			<pubDate>Thu, 11 Jun 2023 01:00:00 +0800</pubDate>
+			<author>Wesley Prison Ministry</author>
 		</item>
 	</channel>
 </rss>

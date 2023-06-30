@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version='2.0'
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Wesley Events Feed</title>
+<link>https://wesleymc.org/</link>
+<description>Wesley events RSS</description>
+<language>en-us</language>
+<item>
+<title>Wesley 40 Days of Prayer &amp; Fasting 2023</title>
+<link>https://wesleymc.org/events-courses/wdop2023</link>
+<pubDate>Sat, 24 Jun 2023 09:58:34 +0000</pubDate>
+<description>A Wesley Methodist Church event.</description>
+<content:encoded>A Wesley Methodist Church event.</content:encoded>
+<dc:creator>A Wesley Methodist Church event.</dc:creator>
+<enclosure url="https://wesleymc.org/images/events/Prayer_WDOP2023_thumbnail.jpg" type="image/jpeg" length="100" />
+</item>
+<item>
+<title>SG Online Open House</title>
+<link>https://wesleymc.org/events-courses/sg-online-open-house-11</link>
+<pubDate>Tue, 13 Jun 2023 09:36:23 +0000</pubDate>
+<description>A Wesley Methodist Church event.</description>
+<content:encoded>A Wesley Methodist Church event.</content:encoded>
+<dc:creator>A Wesley Methodist Church event.</dc:creator>
+<enclosure url="https://wesleymc.org/images/events/SGOnline_15Jul23_thumb.jpg" type="image/jpeg" length="100" />
+</item>
+<item>
+<title>Church Response In Crises And Disasters Module 2</title>
+<link>https://wesleymc.org/events-courses/church-response-in-crises-and-disasters-module-2</link>
+<pubDate>Tue, 13 Jun 2023 09:30:54 +0000</pubDate>
+<description>A Wesley Methodist Church event.</description>
+<content:encoded>A Wesley Methodist Church event.</content:encoded>
+<dc:creator>A Wesley Methodist Church event.</dc:creator>
+<enclosure url="https://wesleymc.org/images/events/CRW_CrisisResponseModule2_08Jul23_thumb2.jpg" type="image/jpeg" length="100" />
+</item>
+<item>
+<title>Wesley WSCS Food Fair 2023</title>
+<link>https://wesleymc.org/events-courses/wesley-wscs-food-fair-2023</link>
+<pubDate>Thu, 01 Jun 2023 05:06:35 +0000</pubDate>
+<description>A Wesley Methodist Church event.</description>
+<content:encoded>A Wesley Methodist Church event.</content:encoded>
+<dc:creator>A Wesley Methodist Church event.</dc:creator>
+<enclosure url="https://wesleymc.org/images/events/Wesley_Food_Fair_2023_thumbnail.jpg" type="image/jpeg" length="100" />
+</item>
+<item>
+<title>Strangely Warmed  Retreat</title>
+<link>https://wesleymc.org/events-courses/strangely-warmed-retreat-registration-begins</link>
+<pubDate>Thu, 18 May 2023 05:01:39 +0000</pubDate>
+<description>A Wesley Methodist Church event.</description>
+<content:encoded>A Wesley Methodist Church event.</content:encoded>
+<dc:creator>A Wesley Methodist Church event.</dc:creator>
+<enclosure url="https://wesleymc.org/images/events/Strangely_Warmed_Sep_23_HPV2_image.jpg" type="image/jpeg" length="100" />
+</item>
+<item>
+<title>A Musical Workshop Series by The Creative Expression Ministry</title>
+<link>https://wesleymc.org/events-courses/a-musical-workshop-series-by-the-creative-expression-ministry-2</link>
+<pubDate>Tue, 02 May 2023 10:57:47 +0000</pubDate>
+<description>We invite all Wesleyans and friends to join our Afro-Brazilian Samba Drum Workshop for beginners.</description>
+<content:encoded>We invite all Wesleyans and friends to join our Afro-Brazilian Samba Drum Workshop for beginners.</content:encoded>
+<dc:creator>We invite all Wesleyans and friends to join our Afro-Brazilian Samba Drum Workshop for beginners.</dc:creator>
+<enclosure url="https://wesleymc.org/images/events/WE_CEM_Music_WorkshopsFP233_Thumbnail.jpg" type="image/jpeg" length="100" />
+</item>
+<item>
+<title>Hospitality Team Recruitment</title>
+<link>https://wesleymc.org/events-courses/hospitality-team-recruitment</link>
+<pubDate>Thu, 05 Jan 2023 08:36:02 +0000</pubDate>
+<description>A Wesley Methodist Church event.</description>
+<content:encoded>A Wesley Methodist Church event.</content:encoded>
+<dc:creator>A Wesley Methodist Church event.</dc:creator>
+<enclosure url="https://wesleymc.org/images/events/Greeters23_image.jpg" type="image/jpeg" length="100" />
+</item>
+</channel>
+</rss>

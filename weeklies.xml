@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version='2.0'
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Wesley Weekly Feed</title>
+<link>https://wesleymc.org/resources/wesley-weekly</link>
+<description>Wesley Weekly RSS</description>
+<language>en-us</language>
+<item>
+<title>28 Jan 2024</title>
+<link>https://wesleymc.org/images/wesley-weekly/WW_28_Jan_2024_r1.pdf</link>
+<pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+<description><![CDATA[Wesley Weekly for 28 Jan 2024]]></description>
+<content:encoded><![CDATA[Wesley Weekly for 28 Jan 2024]]></content:encoded>
+<dc:creator><![CDATA[Wesley Weekly for 28 Jan 2024]]></dc:creator>
+<enclosure url="https://wesleymc.org/images/events/WWCSG-CNY2024-TN-2C.jpg" type="image/jpeg" length="100" />
+</item>
+<item>
+<title>21 Jan 2024</title>
+<link>https://wesleymc.org/images/wesley-weekly/WW_21_Jan_2024_r1.pdf</link>
+<pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
+<description><![CDATA[Wesley Weekly for 21 Jan 2024]]></description>
+<content:encoded><![CDATA[Wesley Weekly for 21 Jan 2024]]></content:encoded>
+<dc:creator><![CDATA[Wesley Weekly for 21 Jan 2024]]></dc:creator>
+<enclosure url="https://wesleymc.org/images/events/WWCSG-CNY2024-TN-2C.jpg" type="image/jpeg" length="100" />
+</item>
+<item>
+<title>14 Jan 2024</title>
+<link>https://wesleymc.org/images/wesley-weekly/WW_14_Jan_2024.pdf</link>
+<pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
+<description><![CDATA[Wesley Weekly for 14 Jan 2024]]></description>
+<content:encoded><![CDATA[Wesley Weekly for 14 Jan 2024]]></content:encoded>
+<dc:creator><![CDATA[Wesley Weekly for 14 Jan 2024]]></dc:creator>
+<enclosure url="https://wesleymc.org/images/events/WWCSG-CNY2024-TN-2C.jpg" type="image/jpeg" length="100" />
+</item>
+</channel>
+</rss>
